@@ -1,0 +1,16 @@
+/**Selector/Identifier
+*For tags: tagname,
+*for class: .classname,
+*for id:   #idname,
+*for attribute: [attribute=value],
+*for pseudo-classes: :pseudo-class
+/***/
+
+body {
+    background-color: red;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+}
