@@ -6,12 +6,24 @@
 *for pseudo-classes: :pseudo-class
 /***/
 
-body {
-    background-color: red;
-}
 
 img{
     height: 150px;
     width: 150px;
 }
 
+.heading{
+    color: maroon;
+    text-align: center;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+#cut{
+    text-decoration: line-through;
+    color: rgb(117, 117, 117);
+    font-size: .6em;
+}
+.bg{
+    background-color: burlywood;
+}
